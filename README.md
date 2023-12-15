@@ -8,10 +8,12 @@ This OpenGL project showcases the fascinating aspects of computer graphics by re
 - **Pirate Ship Viewpoint:** Switched to a viewpoint resembling a pirate ship at an amusement park, giving the impression that you are sitting on one of the spheres, following its motion.
 - **Simulate Gravity:** Manipulated gravity-related variables within the animation enhances the realism of the ball's motion. At the highest point, the initial velocity is zero, while at the lowest point, the velocity is at its maximum speed.
 
-## Set up
+## Set up (For Mac User)
 To run this project, you need to have OpenGL installed on your system. Follow these steps to set up: 
 
 1. Install OpenGL
 2. Clone the repository: `git clone https://github.com/harveytuan23/CS550_Computer_Graphic_Final_Project.git`
 3. Navigate to the project directory: `cd yourprojectname`
-4. Run Shadow
+4. Run program: `make shadow`, then `./shadow`
+
+
