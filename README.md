@@ -12,6 +12,6 @@ This OpenGL project showcases the fascinating aspects of computer graphics by re
 To run this project, you need to have OpenGL installed on your system. Follow these steps to set up: 
 
 1. Install OpenGL
-2. Clone the repository: `git clone [https://github.com/yourusername/yourprojectname.git](https://github.com/harveytuan23/CS550_Computer_Graphic_Final_Project.git)https://github.com/harveytuan23/CS550_Computer_Graphic_Final_Project.git`
+2. Clone the repository: `git clone https://github.com/harveytuan23/CS550_Computer_Graphic_Final_Project.git`
 3. Navigate to the project directory: `cd yourprojectname`
 4. Run Shadow
