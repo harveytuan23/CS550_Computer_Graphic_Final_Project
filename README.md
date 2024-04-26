@@ -17,7 +17,7 @@ To run this project, you need to have OpenGL installed on your system. Follow th
 4. Run program: `make shadow`, then `./shadow`
 
 ## Example
-
+![image](https://github.com/harveytuan23/CS550_Computer_Graphic_Final_Project/blob/main/sample_pic)
 
 
 
