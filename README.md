@@ -9,7 +9,7 @@ This project demonstrates my understanding of DBMS, showcasing how to efficientl
 
 •	Utilized C++ programming techniques to ensure the system's robustness, reliability, and scalability, addressing complex challenges in data management and storage optimization.
 
-## Set up (For Mac User)
+## Set up
 
 1. Clone the repository: `git clone https://github.com/harveytuan23/CS550_Computer_Graphic_Final_Project.git`
 2. Navigate to the project directory: `cd yourprojectname`
