@@ -16,4 +16,8 @@ To run this project, you need to have OpenGL installed on your system. Follow th
 3. Navigate to the project directory: `cd yourprojectname`
 4. Run program: `make shadow`, then `./shadow`
 
+## Example
+
+
+
 
