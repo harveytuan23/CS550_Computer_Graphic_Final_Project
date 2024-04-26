@@ -1,4 +1,4 @@
-# Final Project: Newton's Cradles
+# Newton's Cradles
 
 ## Description
 This OpenGL project showcases the fascinating aspects of computer graphics by rendering dynamic 3D geometries. Key features of this project include:
